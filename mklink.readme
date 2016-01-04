@@ -31,7 +31,7 @@ mklink /J "D:\htdocs\_product_oos_library_system\protected\extensions" "D:\htdoc
 -------
 protected\models
 =======
-mklink /J "D:\htdocs\_product_oos_library_system\protected\models\ommu" "D:\htdocs\_project_ommu_platform\protected\models\ommu"
+mklink /J "D:\htdocs\_product_oos_library_system\protected\models\core" "D:\htdocs\_project_ommu_platform\protected\models\core"
 -------
 protected\ommu
 =======
