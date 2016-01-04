@@ -89,20 +89,8 @@ mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\support\contr
 --
 mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\support\views\o" "D:\htdocs\_project_ommu_module_support\modules\support\views\o"
 
-
-mklink /H "D:\htdocs\_product_oos_library_system\protected\modules\album\album.yaml" "D:\htdocs\_project_ommu_module_albums\modules\album\album.yaml"
-mklink /H "D:\htdocs\_product_oos_library_system\protected\modules\album\LICENSE" "D:\htdocs\_project_ommu_module_albums\modules\album\LICENSE"
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\album\assets" "D:\htdocs\_project_ommu_module_albums\modules\album\assets"
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\album\components" "D:\htdocs\_project_ommu_module_albums\modules\album\components"
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\album\models" "D:\htdocs\_project_ommu_module_albums\modules\album\models"
---
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\album\controllers\o" "D:\htdocs\_project_ommu_module_albums\modules\album\controllers\o"
-mklink /H "D:\htdocs\_product_oos_library_system\protected\modules\album\controllers\LikesController.php" "D:\htdocs\_project_ommu_module_albums\modules\album\controllers\LikesController.php"
-mklink /H "D:\htdocs\_product_oos_library_system\protected\modules\album\controllers\PhotoController.php" "D:\htdocs\_project_ommu_module_albums\modules\album\controllers\PhotoController.php"
---
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\album\views\o" "D:\htdocs\_project_ommu_module_albums\modules\album\views\o"
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\album\views\photo" "D:\htdocs\_project_ommu_module_albums\modules\album\views\photo"
-========================
+///article\\\
+mklink /J "D:\htdocs\_product_oos_library_system\externals\article" "D:\htdocs\_project_ommu_module_articles\externals\article"
 mklink /H "D:\htdocs\_product_oos_library_system\protected\modules\article\article.yaml" "D:\htdocs\_project_ommu_module_articles\modules\article\article.yaml"
 mklink /H "D:\htdocs\_product_oos_library_system\protected\modules\article\LICENSE" "D:\htdocs\_project_ommu_module_articles\modules\article\LICENSE"
 mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\article\assets" "D:\htdocs\_project_ommu_module_articles\modules\article\assets"
@@ -110,18 +98,5 @@ mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\article\compo
 mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\article\models" "D:\htdocs\_project_ommu_module_articles\modules\article\models"
 --
 mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\article\controllers\o" "D:\htdocs\_project_ommu_module_articles\modules\article\controllers\o"
-mklink /H "D:\htdocs\_product_oos_library_system\protected\modules\article\controllers\LikeController.php" "D:\htdocs\_project_ommu_module_articles\modules\article\controllers\LikeController.php"
-mklink /H "D:\htdocs\_product_oos_library_system\protected\modules\article\controllers\MediaController.php" "D:\htdocs\_project_ommu_module_articles\modules\article\controllers\MediaController.php"
 --
 mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\article\views\o" "D:\htdocs\_project_ommu_module_articles\modules\article\views\o"
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\article\views\media" "D:\htdocs\_project_ommu_module_articles\modules\article\views\media"
-========================
-mklink /H "D:\htdocs\_product_oos_library_system\protected\modules\banner\banner.yaml" "D:\htdocs\_project_ommu_module_banner\modules\banner\banner.yaml"
-mklink /H "D:\htdocs\_product_oos_library_system\protected\modules\banner\LICENSE" "D:\htdocs\_project_ommu_module_banner\modules\banner\LICENSE"
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\banner\assets" "D:\htdocs\_project_ommu_module_banner\modules\banner\assets"
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\banner\components" "D:\htdocs\_project_ommu_module_banner\modules\banner\components"
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\banner\models" "D:\htdocs\_project_ommu_module_banner\modules\banner\models"
---
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\banner\controllers\o" "D:\htdocs\_project_ommu_module_banner\modules\banner\controllers\o"
---
-mklink /J "D:\htdocs\_product_oos_library_system\protected\modules\banner\views\o" "D:\htdocs\_project_ommu_module_banner\modules\banner\views\o"
