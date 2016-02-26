@@ -17,6 +17,7 @@ mklink /H "D:\htdocs\_product_oos_library_system\protected\yiic.php" "D:\htdocs\
 -------
 protected\components
 =======
+mklink /H "D:\htdocs\_product_oos_library_system\protected\components\Controller.php" "D:\htdocs\_project_ommu_platform\protected\components\Controller.php"
 mklink /J "D:\htdocs\_product_oos_library_system\protected\components\admin" "D:\htdocs\_project_ommu_platform\protected\components\admin"
 mklink /J "D:\htdocs\_product_oos_library_system\protected\components\plugin" "D:\htdocs\_project_ommu_platform\protected\components\plugin"
 mklink /J "D:\htdocs\_product_oos_library_system\protected\components\system" "D:\htdocs\_project_ommu_platform\protected\components\system"
