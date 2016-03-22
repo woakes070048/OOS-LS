@@ -32,6 +32,10 @@ protected\extensions
 =======
 mklink /J "D:\htdocs\_project_oos_library_system\protected\extensions" "D:\htdocs\_project_ommu_platform\protected\extensions"
 -------
+protected\messages
+=======
+mklink /J "D:\htdocs\_project_oos_library_system\protected\messages" "D:\htdocs\_project_ommu_platform\protected\messages"
+-------
 protected\models
 =======
 mklink /J "D:\htdocs\_project_oos_library_system\protected\models\core" "D:\htdocs\_project_ommu_platform\protected\models\core"
